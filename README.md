@@ -7,6 +7,10 @@ It can be useful for security research, penetration testing, and reconnaissance.
 ## Contents
 - `subdomains.txt` — the main file containing all collected subdomains.
 
+## Disclaimer
+This data is provided for educational and research purposes only.
+Do not use it for unauthorized activities.
+
 ## Usage
 Clone the repository and work with the file:
 ```bash
